@@ -1,2 +1,2 @@
 # DevFolio
-Premium Personal Portfolio HTML Template
+Premium Personal Portofolio HTML Template
